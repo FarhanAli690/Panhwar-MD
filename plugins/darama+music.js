@@ -17,7 +17,7 @@ const url = data.url
     
     
 let desc = `
-⫷⦁[ *PANHWAR MD MUSIC DOWNLOADING* ]⦁⫸
+⫷⦁[ *𝗗𝗥𝗢𝗩𝗘-𝗠𝗗 𝗔𝗨𝗗𝗜𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥* ]⦁⫸
 
 🎵 *MUSIC FOUND!* 
 
@@ -29,9 +29,9 @@ let desc = `
 
 🎧 *ENJOY THE MUSIC BROUGHT TO YOU!*
 
-> *PANHWAR MD WHATSAPP BOT* 
+> *DROVE MD WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀɴsᴀʀ ᴋɪɴɢ* 
+> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴡᴀʟᴋ-ᴅʀᴏᴠᴇ* 
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -70,7 +70,7 @@ const url = data.url
     
     
 let desc = `
-⫷⦁[ *•PANHWAR-MD VIDEO DOWNLOADING* ]⦁⫸ 
+⫷⦁[ *•𝗗𝗥𝗢𝗩𝗘-𝗠𝗗 𝗩𝗜𝗗𝗘𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥* ]⦁⫸ 
 
 🎥 *VIDEO FOUND!* 
 
@@ -82,9 +82,9 @@ let desc = `
 
 🎬 *ENJOY THE VIDEO BROUGHT TO YOU!*
 
-> *PANHWAR-MD WHATSAPP BOT* 
+> *𝐃𝐑𝐎𝐕𝐄-𝐌𝐃 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀɴsᴀʀ ᴋɪɴɢ*
+> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴡᴀʟᴋ-ᴅʀᴏᴠᴇ*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
